@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2023-05-17T02:29:38.767-04:00
+  initializedAtString: 2023-05-17T02:29:37.706-04:00
+  log:
+  - commitID: ff08998e9f37e210d19702e670225b4de590917e
+    mergeA: 
+    mergeB: 
+    authorName: BinghongLiu
+    authorEmail: 112732580+BinghongLiu@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2023-05-16T22:02:45.000-04:00
+    commitTimeString: 2023-05-16T22:02:45.000-04:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\zeldaclone\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: C:\Users\liubi\OneDrive\Desktop\CISC204\zeldaclone\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
